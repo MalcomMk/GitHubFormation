@@ -1,7 +1,7 @@
 
 # Git & Github
 
-<img src="/images/git-logo.svg" height="50">               <img src="/images/github-logo.png" height="100">
+<img src="images/Gitlogo.png" height="50">               <img src="images/github-logo.png" height="100">
 
 ### Git
 
