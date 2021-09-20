@@ -1,6 +1,6 @@
 # Git & Github
 
-<img src="/images/git-logo.svg" width="100" height="100">!<img src="/images/github-logo.png" width="100" height="100">
+<img src="/images/git-logo.svg" height="100">!<img src="/images/github-logo.png" height="100">
 
 ### Git
 
