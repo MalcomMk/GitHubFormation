@@ -1,6 +1,6 @@
-### Maintenant vous n'avez plus qu'à prendre les photos de votre projet à chaque fois que vous avez fait des modifications et les mettres sur github.
+##### Maintenant vous n'avez plus qu'à prendre les photos de votre projet à chaque fois que vous avez fait des modifications et les mettres sur github.
 
-#### Le Commit
+###### Le Commit
 
 Réaliser un commit, deux étapes doivent être réalisées :
 
@@ -10,4 +10,4 @@ Réaliser un commit, deux étapes doivent être réalisées :
 
 3. Mettre votre repository Github à jour : **git push origin master**
 
-## The End
+## The End...
