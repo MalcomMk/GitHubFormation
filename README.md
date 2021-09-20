@@ -1,3 +1,13 @@
+
+# Git & Github
+
+<img src="/images/git-logo.svg" height="50">               <img src="/images/github-logo.png" height="100">
+
+### Git
+
+Pour télécharger **Git**, voici le lien [https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+
 ##### Definition 
 
 Git est une outil de versioning les outils de versioning ont pour objectif de memoriser toute creation?modification ou supression des differents fichier d'un projet afin de vous permettre de retracer toute l'evolution du projet,fichier par fichier.
@@ -20,5 +30,14 @@ Si les liens de votre repository github apparait tout est bon !
 
 A partir de maintenant vous n'aurez plus besoin de faire les etapes au dessus !
 
+###### Le Commit
 
+Réaliser un commit, deux étapes doivent être réalisées :
 
+1. D'abord l'ajout des fichiers à prendre en photo : **git add .**
+
+2. Ensuite, la prise de photo elle-même : **git commit -m "commentaire à mettre ici"**
+
+3. Mettre votre repository Github à jour : **git push origin master**
+
+## The End...
