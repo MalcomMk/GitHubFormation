@@ -1,4 +1,14 @@
-##### Maintenant vous n'avez plus qu'à prendre les photos de votre projet à chaque fois que vous avez fait des modifications et les mettres sur github.
+# Git & Github
+
+![Logo Git](/images/git-logo.svg)![Logo Github](/images/github-logo.png)
+
+## Git
+
+Pour télécharger **Git**, voici le lien [https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+g
+
+**Maintenant vous n'avez plus qu'à prendre les photos de votre projet à chaque fois que vous avez fait des modifications et les mettres sur github.**
 
 ###### Le Commit
 
